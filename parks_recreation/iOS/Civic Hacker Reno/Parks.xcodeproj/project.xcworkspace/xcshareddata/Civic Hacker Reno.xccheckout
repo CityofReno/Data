@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>950ABAE1-AF7C-4817-9CDA-497CC6CEAE9C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Civic Hacker Reno</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7D3942A0-0C0A-4B0E-81EA-80C642037FBB</key>
+		<string>root@107.170.78.172:/opt/git/parks.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Civic Hacker Reno.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7D3942A0-0C0A-4B0E-81EA-80C642037FBB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>root@107.170.78.172:/opt/git/parks.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7D3942A0-0C0A-4B0E-81EA-80C642037FBB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7D3942A0-0C0A-4B0E-81EA-80C642037FBB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Civic Hacker Reno</string>
+		</dict>
+	</array>
+</dict>
+</plist>

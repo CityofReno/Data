@@ -1,0 +1,495 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B99529F3193BCFF000BCAB97 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B99529F2193BCFF000BCAB97 /* Foundation.framework */; };
+		B99529F5193BCFF000BCAB97 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B99529F4193BCFF000BCAB97 /* CoreGraphics.framework */; };
+		B99529F7193BCFF000BCAB97 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B99529F6193BCFF000BCAB97 /* UIKit.framework */; };
+		B99529FD193BCFF000BCAB97 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B99529FB193BCFF000BCAB97 /* InfoPlist.strings */; };
+		B99529FF193BCFF000BCAB97 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B99529FE193BCFF000BCAB97 /* main.m */; };
+		B9952A03193BCFF000BCAB97 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B9952A02193BCFF000BCAB97 /* AppDelegate.m */; };
+		B9952A06193BCFF000BCAB97 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9952A04193BCFF000BCAB97 /* Main.storyboard */; };
+		B9952A09193BCFF000BCAB97 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B9952A08193BCFF000BCAB97 /* ViewController.m */; };
+		B9952A0B193BCFF000BCAB97 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9952A0A193BCFF000BCAB97 /* Images.xcassets */; };
+		B9952A12193BCFF000BCAB97 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9952A11193BCFF000BCAB97 /* XCTest.framework */; };
+		B9952A13193BCFF000BCAB97 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B99529F2193BCFF000BCAB97 /* Foundation.framework */; };
+		B9952A14193BCFF000BCAB97 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B99529F6193BCFF000BCAB97 /* UIKit.framework */; };
+		B9952A1C193BCFF000BCAB97 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B9952A1A193BCFF000BCAB97 /* InfoPlist.strings */; };
+		B9952A1E193BCFF000BCAB97 /* Civic_Hacker_RenoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B9952A1D193BCFF000BCAB97 /* Civic_Hacker_RenoTests.m */; };
+		B9952A2A193BD97100BCAB97 /* 1401677880_parks-32.png in Resources */ = {isa = PBXBuildFile; fileRef = B9952A29193BD97100BCAB97 /* 1401677880_parks-32.png */; };
+		B9952A2D193BDCBB00BCAB97 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = B9952A2C193BDCBB00BCAB97 /* MBProgressHUD.m */; };
+		B9952A33193BDE2900BCAB97 /* 1401679081_127-Retweet.png in Resources */ = {isa = PBXBuildFile; fileRef = B9952A32193BDE2900BCAB97 /* 1401679081_127-Retweet.png */; };
+		B9952A35193BDE5F00BCAB97 /* 1401679081_127-Retweet@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B9952A34193BDE5F00BCAB97 /* 1401679081_127-Retweet@2x.png */; };
+		B9952A3A193BE07F00BCAB97 /* 1401677880_parks-32@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B9952A39193BE07F00BCAB97 /* 1401677880_parks-32@2x.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		B9952A15193BCFF000BCAB97 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B99529E7193BCFF000BCAB97 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B99529EE193BCFF000BCAB97;
+			remoteInfo = "Civic Hacker Reno";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		B99529EF193BCFF000BCAB97 /* Parks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parks.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B99529F2193BCFF000BCAB97 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		B99529F4193BCFF000BCAB97 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		B99529F6193BCFF000BCAB97 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		B99529FA193BCFF000BCAB97 /* Parks-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Parks-Info.plist"; sourceTree = "<group>"; };
+		B99529FC193BCFF000BCAB97 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B99529FE193BCFF000BCAB97 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		B9952A00193BCFF000BCAB97 /* Parks-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Parks-Prefix.pch"; sourceTree = "<group>"; };
+		B9952A01193BCFF000BCAB97 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		B9952A02193BCFF000BCAB97 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		B9952A05193BCFF000BCAB97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B9952A07193BCFF000BCAB97 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		B9952A08193BCFF000BCAB97 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		B9952A0A193BCFF000BCAB97 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		B9952A10193BCFF000BCAB97 /* ParksTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParksTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B9952A11193BCFF000BCAB97 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		B9952A19193BCFF000BCAB97 /* ParksTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ParksTests-Info.plist"; sourceTree = "<group>"; };
+		B9952A1B193BCFF000BCAB97 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B9952A1D193BCFF000BCAB97 /* Civic_Hacker_RenoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Civic_Hacker_RenoTests.m; sourceTree = "<group>"; };
+		B9952A29193BD97100BCAB97 /* 1401677880_parks-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1401677880_parks-32.png"; sourceTree = "<group>"; };
+		B9952A2B193BDCBB00BCAB97 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		B9952A2C193BDCBB00BCAB97 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		B9952A32193BDE2900BCAB97 /* 1401679081_127-Retweet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1401679081_127-Retweet.png"; sourceTree = "<group>"; };
+		B9952A34193BDE5F00BCAB97 /* 1401679081_127-Retweet@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1401679081_127-Retweet@2x.png"; sourceTree = "<group>"; };
+		B9952A39193BE07F00BCAB97 /* 1401677880_parks-32@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1401677880_parks-32@2x.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B99529EC193BCFF000BCAB97 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B99529F5193BCFF000BCAB97 /* CoreGraphics.framework in Frameworks */,
+				B99529F7193BCFF000BCAB97 /* UIKit.framework in Frameworks */,
+				B99529F3193BCFF000BCAB97 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9952A0D193BCFF000BCAB97 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9952A12193BCFF000BCAB97 /* XCTest.framework in Frameworks */,
+				B9952A14193BCFF000BCAB97 /* UIKit.framework in Frameworks */,
+				B9952A13193BCFF000BCAB97 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B99529E6193BCFF000BCAB97 = {
+			isa = PBXGroup;
+			children = (
+				B99529F8193BCFF000BCAB97 /* Civic Hacker Reno */,
+				B9952A17193BCFF000BCAB97 /* Civic Hacker RenoTests */,
+				B99529F1193BCFF000BCAB97 /* Frameworks */,
+				B99529F0193BCFF000BCAB97 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B99529F0193BCFF000BCAB97 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B99529EF193BCFF000BCAB97 /* Parks.app */,
+				B9952A10193BCFF000BCAB97 /* ParksTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B99529F1193BCFF000BCAB97 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B99529F2193BCFF000BCAB97 /* Foundation.framework */,
+				B99529F4193BCFF000BCAB97 /* CoreGraphics.framework */,
+				B99529F6193BCFF000BCAB97 /* UIKit.framework */,
+				B9952A11193BCFF000BCAB97 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B99529F8193BCFF000BCAB97 /* Civic Hacker Reno */ = {
+			isa = PBXGroup;
+			children = (
+				B9952A32193BDE2900BCAB97 /* 1401679081_127-Retweet.png */,
+				B9952A29193BD97100BCAB97 /* 1401677880_parks-32.png */,
+				B9952A39193BE07F00BCAB97 /* 1401677880_parks-32@2x.png */,
+				B9952A34193BDE5F00BCAB97 /* 1401679081_127-Retweet@2x.png */,
+				B9952A01193BCFF000BCAB97 /* AppDelegate.h */,
+				B9952A02193BCFF000BCAB97 /* AppDelegate.m */,
+				B9952A04193BCFF000BCAB97 /* Main.storyboard */,
+				B9952A07193BCFF000BCAB97 /* ViewController.h */,
+				B9952A08193BCFF000BCAB97 /* ViewController.m */,
+				B9952A2B193BDCBB00BCAB97 /* MBProgressHUD.h */,
+				B9952A2C193BDCBB00BCAB97 /* MBProgressHUD.m */,
+				B9952A0A193BCFF000BCAB97 /* Images.xcassets */,
+				B99529F9193BCFF000BCAB97 /* Supporting Files */,
+			);
+			path = "Civic Hacker Reno";
+			sourceTree = "<group>";
+		};
+		B99529F9193BCFF000BCAB97 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B99529FA193BCFF000BCAB97 /* Parks-Info.plist */,
+				B99529FB193BCFF000BCAB97 /* InfoPlist.strings */,
+				B99529FE193BCFF000BCAB97 /* main.m */,
+				B9952A00193BCFF000BCAB97 /* Parks-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B9952A17193BCFF000BCAB97 /* Civic Hacker RenoTests */ = {
+			isa = PBXGroup;
+			children = (
+				B9952A1D193BCFF000BCAB97 /* Civic_Hacker_RenoTests.m */,
+				B9952A18193BCFF000BCAB97 /* Supporting Files */,
+			);
+			path = "Civic Hacker RenoTests";
+			sourceTree = "<group>";
+		};
+		B9952A18193BCFF000BCAB97 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B9952A19193BCFF000BCAB97 /* ParksTests-Info.plist */,
+				B9952A1A193BCFF000BCAB97 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B99529EE193BCFF000BCAB97 /* Parks */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B9952A21193BCFF000BCAB97 /* Build configuration list for PBXNativeTarget "Parks" */;
+			buildPhases = (
+				B99529EB193BCFF000BCAB97 /* Sources */,
+				B99529EC193BCFF000BCAB97 /* Frameworks */,
+				B99529ED193BCFF000BCAB97 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Parks;
+			productName = "Civic Hacker Reno";
+			productReference = B99529EF193BCFF000BCAB97 /* Parks.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B9952A0F193BCFF000BCAB97 /* ParksTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B9952A24193BCFF000BCAB97 /* Build configuration list for PBXNativeTarget "ParksTests" */;
+			buildPhases = (
+				B9952A0C193BCFF000BCAB97 /* Sources */,
+				B9952A0D193BCFF000BCAB97 /* Frameworks */,
+				B9952A0E193BCFF000BCAB97 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B9952A16193BCFF000BCAB97 /* PBXTargetDependency */,
+			);
+			name = ParksTests;
+			productName = "Civic Hacker RenoTests";
+			productReference = B9952A10193BCFF000BCAB97 /* ParksTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B99529E7193BCFF000BCAB97 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = Haifisch;
+				TargetAttributes = {
+					B9952A0F193BCFF000BCAB97 = {
+						TestTargetID = B99529EE193BCFF000BCAB97;
+					};
+				};
+			};
+			buildConfigurationList = B99529EA193BCFF000BCAB97 /* Build configuration list for PBXProject "Parks" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B99529E6193BCFF000BCAB97;
+			productRefGroup = B99529F0193BCFF000BCAB97 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B99529EE193BCFF000BCAB97 /* Parks */,
+				B9952A0F193BCFF000BCAB97 /* ParksTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B99529ED193BCFF000BCAB97 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9952A35193BDE5F00BCAB97 /* 1401679081_127-Retweet@2x.png in Resources */,
+				B9952A33193BDE2900BCAB97 /* 1401679081_127-Retweet.png in Resources */,
+				B9952A0B193BCFF000BCAB97 /* Images.xcassets in Resources */,
+				B99529FD193BCFF000BCAB97 /* InfoPlist.strings in Resources */,
+				B9952A06193BCFF000BCAB97 /* Main.storyboard in Resources */,
+				B9952A2A193BD97100BCAB97 /* 1401677880_parks-32.png in Resources */,
+				B9952A3A193BE07F00BCAB97 /* 1401677880_parks-32@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9952A0E193BCFF000BCAB97 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9952A1C193BCFF000BCAB97 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B99529EB193BCFF000BCAB97 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9952A09193BCFF000BCAB97 /* ViewController.m in Sources */,
+				B9952A03193BCFF000BCAB97 /* AppDelegate.m in Sources */,
+				B99529FF193BCFF000BCAB97 /* main.m in Sources */,
+				B9952A2D193BDCBB00BCAB97 /* MBProgressHUD.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9952A0C193BCFF000BCAB97 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9952A1E193BCFF000BCAB97 /* Civic_Hacker_RenoTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B9952A16193BCFF000BCAB97 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B99529EE193BCFF000BCAB97 /* Parks */;
+			targetProxy = B9952A15193BCFF000BCAB97 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		B99529FB193BCFF000BCAB97 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B99529FC193BCFF000BCAB97 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		B9952A04193BCFF000BCAB97 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B9952A05193BCFF000BCAB97 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B9952A1A193BCFF000BCAB97 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B9952A1B193BCFF000BCAB97 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B9952A1F193BCFF000BCAB97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		B9952A20193BCFF000BCAB97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B9952A22193BCFF000BCAB97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Civic Hacker Reno/Parks-Prefix.pch";
+				INFOPLIST_FILE = "Civic Hacker Reno/Parks-Info.plist";
+				PRODUCT_NAME = Parks;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		B9952A23193BCFF000BCAB97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Civic Hacker Reno/Parks-Prefix.pch";
+				INFOPLIST_FILE = "Civic Hacker Reno/Parks-Info.plist";
+				PRODUCT_NAME = Parks;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		B9952A25193BCFF000BCAB97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Civic Hacker Reno.app/Civic Hacker Reno";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Civic Hacker Reno/Civic Hacker Reno-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Civic Hacker RenoTests/ParksTests-Info.plist";
+				PRODUCT_NAME = ParksTests;
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		B9952A26193BCFF000BCAB97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Civic Hacker Reno.app/Civic Hacker Reno";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Civic Hacker Reno/Civic Hacker Reno-Prefix.pch";
+				INFOPLIST_FILE = "Civic Hacker RenoTests/ParksTests-Info.plist";
+				PRODUCT_NAME = ParksTests;
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B99529EA193BCFF000BCAB97 /* Build configuration list for PBXProject "Parks" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B9952A1F193BCFF000BCAB97 /* Debug */,
+				B9952A20193BCFF000BCAB97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B9952A21193BCFF000BCAB97 /* Build configuration list for PBXNativeTarget "Parks" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B9952A22193BCFF000BCAB97 /* Debug */,
+				B9952A23193BCFF000BCAB97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B9952A24193BCFF000BCAB97 /* Build configuration list for PBXNativeTarget "ParksTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B9952A25193BCFF000BCAB97 /* Debug */,
+				B9952A26193BCFF000BCAB97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B99529E7193BCFF000BCAB97 /* Project object */;
+}
