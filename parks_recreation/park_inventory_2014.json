@@ -1,6 +1,8 @@
 [
   {
     "Park Name":"Anderson ES",
+    "Latitude":39.494597,
+    "Longitude":-119.809644,
     "Address":"1055 Berrum Lane",
     "Quadrant":"SW",
     "Type Of Park":"School",
@@ -33,10 +35,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Barbara Bennett Park",
+    "Latitude":39.523537,
+    "Longitude":-119.817221,
     "Address":"400 Island Ave",
     "Quadrant":"SW",
     "Type Of Park":"Neighborhood",
@@ -69,10 +74,13 @@
     "Pool Type":"",
     "Water Body":"river",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Beck ES",
+    "Latitude":39.504513,
+    "Longitude":-119.826149,
     "Address":"1900 Sharon Dr",
     "Quadrant":"SW",
     "Type Of Park":"School",
@@ -105,10 +113,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Bicentennial Park",
+    "Latitude":39.52399,
+    "Longitude":-119.819238,
     "Address":"10 Ralston St",
     "Quadrant":"NW",
     "Type Of Park":"Neighborhood",
@@ -141,10 +152,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Billinghurst MS",
+    "Latitude":39.52236,
+    "Longitude":-119.893756,
     "Address":"6685 Chesterfield Lane",
     "Quadrant":"NW",
     "Type Of Park":"School",
@@ -177,10 +191,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Brodhead Park",
+    "Latitude":39.528995,
+    "Longitude":-119.804337,
     "Address":"5 South Park St",
     "Quadrant":"SE",
     "Type Of Park":"Neighborhood",
@@ -213,10 +230,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Cannan ES",
+    "Latitude":39.550138,
+    "Longitude":-119.78474,
     "Address":"2450 Cannan St",
     "Quadrant":"NE",
     "Type Of Park":"School",
@@ -249,10 +269,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Canyon Creek Park",
+    "Latitude":39.526997,
+    "Longitude":-119.882172,
     "Address":"1485 Robb Dr",
     "Quadrant":"NW",
     "Type Of Park":"Neighborhood",
@@ -285,10 +308,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"Yes",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":"Yes"
   },
   {
     "Park Name":"Center Creek Park",
+    "Latitude":39.438381,
+    "Longitude":-119.736587,
     "Address":"1595 Wilbur May Pkwy",
     "Quadrant":"SE",
     "Type Of Park":"Neighborhood",
@@ -321,10 +347,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Comstock Park",
+    "Latitude":39.435477,
+    "Longitude":-119.731919,
     "Address":"1650 Carat Dr",
     "Quadrant":"SE",
     "Type Of Park":"Neighborhood",
@@ -357,10 +386,13 @@
     "Pool Type":"",
     "Water Body":"stream",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Corbett ES",
+    "Latitude":39.510018,
+    "Longitude":-119.784397,
     "Address":"1901 Villanova Dr",
     "Quadrant":"SE",
     "Type Of Park":"School",
@@ -393,10 +425,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Crissie Caughlin Park",
+    "Latitude":39.511025,
+    "Longitude":-119.85235,
     "Address":"3415 Idlewild Dr",
     "Quadrant":"SW",
     "Type Of Park":"Neighborhood",
@@ -429,10 +464,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Crystal Lake Park",
+    "Latitude":39.456302,
+    "Longitude":-119.789238,
     "Address":"1190 Country Estates Cir",
     "Quadrant":"SW",
     "Type Of Park":"Neighborhood",
@@ -465,10 +503,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"Yes",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Damonte Ranch Park",
+    "Latitude":39.425443,
+    "Longitude":-119.727499,
     "Address":"1950 Steamboat Parkway",
     "Quadrant":"SE",
     "Type Of Park":"Neighborhood",
@@ -501,10 +542,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Depoali Middle School",
+    "Latitude":39.450371,
+    "Longitude":-119.734992,
     "Address":"9300 Wilbur May Pkwy",
     "Quadrant":"SE",
     "Type Of Park":"Neighborhood",
@@ -537,10 +581,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Dick Taylor Park",
+    "Latitude":39.541019,
+    "Longitude":-119.810792,
     "Address":"1140 Beach St",
     "Quadrant":"NE",
     "Type Of Park":"Neighborhood",
@@ -573,10 +620,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":"Yes"
   },
   {
     "Park Name":"Dodson ES",
+    "Latitude":39.489882,
+    "Longitude":-119.750931,
     "Address":"4355 Houston St",
     "Quadrant":"SE",
     "Type Of Park":"School",
@@ -609,10 +659,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Donner Party Park",
+    "Latitude":39.475821,
+    "Longitude":-119.754537,
     "Address":"4385 Loreto Lane",
     "Quadrant":"SE",
     "Type Of Park":"Pocket",
@@ -645,10 +698,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Dorothy McAlinden",
+    "Latitude":39.652411,
+    "Longitude":-119.8756,
     "Address":"12000 Mt Charleston",
     "Quadrant":"NV",
     "Type Of Park":"Neighborhood",
@@ -681,10 +737,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Double Diamond Park",
+    "Latitude":39.450362,
+    "Longitude":-119.735523,
     "Address":"9100 Wilbur May Pkwy",
     "Quadrant":"SE",
     "Type Of Park":"Community",
@@ -717,10 +776,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Downtown Plaza (ice rink)",
+    "Latitude":39.525371,
+    "Longitude":-119.812777,
     "Address":"10 North Virginia",
     "Quadrant":"NE",
     "Type Of Park":"Pocket",
@@ -753,10 +815,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Duncan ES",
+    "Latitude":39.540932,
+    "Longitude":-119.794352,
     "Address":"1200 Montello St",
     "Quadrant":"NE",
     "Type Of Park":"School",
@@ -789,10 +854,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Echo Loder ES",
+    "Latitude":39.503384,
+    "Longitude":-119.792623,
     "Address":"600 Apple St",
     "Quadrant":"SE",
     "Type Of Park":"School",
@@ -825,10 +893,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Eighth Street",
+    "Latitude":39.535886,
+    "Longitude":-119.808385,
     "Address":"455 East 8th St",
     "Quadrant":"NE",
     "Type Of Park":"Pocket",
@@ -861,10 +932,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Evans Park",
+    "Latitude":39.53668,
+    "Longitude":-119.813595,
     "Address":"200 East 9th St",
     "Quadrant":"NE",
     "Type Of Park":"Neighborhood",
@@ -897,10 +971,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Evergreen Park",
+    "Latitude":39.441118,
+    "Longitude":-119.748696,
     "Address":"9555A Evergreen St",
     "Quadrant":"SE",
     "Type Of Park":"Neighborhood",
@@ -933,10 +1010,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Fisherman's Park #1",
+    "Latitude":39.530341,
+    "Longitude":-119.779946,
     "Address":"495 Galetti Way",
     "Quadrant":"NE",
     "Type Of Park":"Neighborhood",
@@ -969,10 +1049,13 @@
     "Pool Type":"",
     "Water Body":"river",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Fisherman's Park #2",
+    "Latitude":39.53088,
+    "Longitude":-119.788008,
     "Address":"5 Kietzke Lane",
     "Quadrant":"NE",
     "Type Of Park":"Neighborhood",
@@ -1005,10 +1088,13 @@
     "Pool Type":"",
     "Water Body":"river",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Fulton Corner",
+    "Latitude":39.52493,
+    "Longitude":-119.816793,
     "Address":"1st & Arlington, SE Corner",
     "Quadrant":"NW",
     "Type Of Park":"Pocket",
@@ -1041,10 +1127,13 @@
     "Pool Type":"",
     "Water Body":"river",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Governor's Bowl",
+    "Latitude":39.535633,
+    "Longitude":-119.793535,
     "Address":"1498 East 7th St",
     "Quadrant":"NE",
     "Type Of Park":"Neighborhood",
@@ -1077,10 +1166,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Harrah's/DiLoreto Pathway",
+    "Latitude":39.529633,
+    "Longitude":-119.813803,
     "Address":"Truckee River Path, Wells to Sutro",
     "Quadrant":"SE",
     "Type Of Park":"Trail",
@@ -1113,10 +1205,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Hilltop Park",
+    "Latitude":39.54311,
+    "Longitude":-119.862853,
     "Address":"3950 Buckingham Pl",
     "Quadrant":"NW",
     "Type Of Park":"Neighborhood",
@@ -1149,10 +1244,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Holcomb Historic Site",
+    "Latitude":39.443789,
+    "Longitude":-119.784998,
     "Address":"1005 Holcomb St",
     "Quadrant":"SE",
     "Type Of Park":"Pocket",
@@ -1185,10 +1283,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Horizon View Park",
+    "Latitude":39.437652,
+    "Longitude":-119.736964,
     "Address":"9675 Wilbur May Pkwy",
     "Quadrant":"SE",
     "Type Of Park":"Neighborhood",
@@ -1221,10 +1322,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"Yes",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Horseman's Park",
+    "Latitude":39.484402,
+    "Longitude":-119.833362,
     "Address":"2800 Pioneer Dr",
     "Quadrant":"SW",
     "Type Of Park":"Neighborhood",
@@ -1257,10 +1361,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Huffaker Mountain Trail",
+    "Latitude":39.457302,
+    "Longitude":-119.767857,
     "Address":"1160 East Huffaker Dr",
     "Quadrant":"SE",
     "Type Of Park":"Trail",
@@ -1293,10 +1400,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Huffaker Park",
+    "Latitude":39.457302,
+    "Longitude":-119.767857,
     "Address":"1160 East Huffaker Dr",
     "Quadrant":"SE",
     "Type Of Park":"Neighborhood",
@@ -1329,10 +1439,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"Yes",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Idlewild Park",
+    "Latitude":39.519671,
+    "Longitude":-119.836692,
     "Address":"2055 Idlewild Dr",
     "Quadrant":"SW",
     "Type Of Park":"Community",
@@ -1365,10 +1478,13 @@
     "Pool Type":"Outdoor",
     "Water Body":"both",
     "Parcourse":"Yes",
-    "Water Play Feature":"Yes"
+    "Water Play Feature":"Yes",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Irving Circle",
+    "Latitude":39.534051,
+    "Longitude":-119.833057,
     "Address":"85 Irving Park Circle",
     "Quadrant":"NW",
     "Type Of Park":"Pocket",
@@ -1401,10 +1517,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Ivan Sack Park & Diloreto Path",
+    "Latitude":39.515123,
+    "Longitude":-119.847067,
     "Address":"3005 Idlewild Dr",
     "Quadrant":"SW",
     "Type Of Park":"Pocket",
@@ -1437,10 +1556,13 @@
     "Pool Type":"",
     "Water Body":"river",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Jack Tighe Ballfields",
+    "Latitude":39.489125,
+    "Longitude":-119.799304,
     "Address":"325 Burris Lane",
     "Quadrant":"SW",
     "Type Of Park":"Neighborhood",
@@ -1473,10 +1595,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Jamaica Park",
+    "Latitude":39.477501,
+    "Longitude":-119.779328,
     "Address":"1000 Jamaica Ave",
     "Quadrant":"SE",
     "Type Of Park":"Neighborhood",
@@ -1509,10 +1634,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"John Champion Park",
+    "Latitude":39.528342,
+    "Longitude":-119.796192,
     "Address":"957 Kuenzli St",
     "Quadrant":"SE",
     "Type Of Park":"Neighborhood",
@@ -1545,10 +1673,13 @@
     "Pool Type":"",
     "Water Body":"river",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Kuenzli River Belt Pathway",
+    "Latitude":39.529633,
+    "Longitude":-119.813803,
     "Address":"Truckee River Path, Sutro to Champion",
     "Quadrant":"SE",
     "Type Of Park":"Pathway",
@@ -1581,10 +1712,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Lake Park",
+    "Latitude":39.543371,
+    "Longitude":-119.835192,
     "Address":"40 Coleman Dr",
     "Quadrant":"NW",
     "Type Of Park":"Neighborhood",
@@ -1617,10 +1751,13 @@
     "Pool Type":"",
     "Water Body":"pond/lake",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Las Brisas Park",
+    "Latitude":39.542578,
+    "Longitude":-119.869307,
     "Address":"5350 Las Brisas Blvd",
     "Quadrant":"NW",
     "Type Of Park":"Neighborhood",
@@ -1653,10 +1790,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"Yes"
+    "Water Play Feature":"Yes",
+    "Rentable Shelters":"Yes"
   },
   {
     "Park Name":"Liston Park",
+    "Latitude":39.50901,
+    "Longitude":-119.793627,
     "Address":"1635 Yori Ave",
     "Quadrant":"SE",
     "Type Of Park":"Pocket",
@@ -1689,10 +1829,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Lunsford Triangle",
+    "Latitude":39.522158,
+    "Longitude":-119.821459,
     "Address":"Riverside & Washington",
     "Quadrant":"NW",
     "Type Of Park":"Pocket",
@@ -1725,10 +1868,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Manzanita Park",
+    "Latitude":39.483375,
+    "Longitude":-119.801955,
     "Address":"630 Manzanita Lane",
     "Quadrant":"SW",
     "Type Of Park":"Neighborhood",
@@ -1761,10 +1907,13 @@
     "Pool Type":"",
     "Water Body":"stream",
     "Parcourse":"Yes",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Mary Gojack Park",
+    "Latitude":39.482023,
+    "Longitude":-119.834505,
     "Address":"3100 Skyline Blvd",
     "Quadrant":"SW",
     "Type Of Park":"Neighborhood",
@@ -1797,10 +1946,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Mayor's Park",
+    "Latitude":39.652411,
+    "Longitude":-119.8756,
     "Address":"12000 Mt Charleston",
     "Quadrant":"NV",
     "Type Of Park":"Community",
@@ -1833,10 +1985,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"McKinley Park & Arts/Culture Center",
+    "Latitude":39.521343,
+    "Longitude":-119.823881,
     "Address":"925 Riverside Dr",
     "Quadrant":"NW",
     "Type Of Park":"Neighborhood",
@@ -1869,10 +2024,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Melody Lane Park",
+    "Latitude":39.5601,
+    "Longitude":-119.788883,
     "Address":"2370 Scottsdale Dr",
     "Quadrant":"NE",
     "Type Of Park":"Neighborhood",
@@ -1905,10 +2063,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Miguel Ribera Park & Neil Road Rec Cen",
+    "Latitude":39.488733,
+    "Longitude":-119.780103,
     "Address":"3905 Neil Road",
     "Quadrant":"SE",
     "Type Of Park":"Neighborhood",
@@ -1941,10 +2102,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Mira Loma Park",
+    "Latitude":39.489181,
+    "Longitude":-119.747931,
     "Address":"3000 South McCarran Blvd",
     "Quadrant":"SE",
     "Type Of Park":"Community",
@@ -1977,10 +2141,13 @@
     "Pool Type":"",
     "Water Body":"stream",
     "Parcourse":"Yes",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Moana Pool & Park",
+    "Latitude":39.490757,
+    "Longitude":-119.799626,
     "Address":"240 W Moana Lane",
     "Quadrant":"SW",
     "Type Of Park":"Community",
@@ -2013,10 +2180,13 @@
     "Pool Type":"Indoor",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Moana Stadium",
+    "Latitude":39.490757,
+    "Longitude":-119.799626,
     "Address":"240 West Moana Lane",
     "Quadrant":"SW",
     "Type Of Park":"Community",
@@ -2049,10 +2219,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Newlands Park",
+    "Latitude":39.519627,
+    "Longitude":-119.821889,
     "Address":"700 California Ave",
     "Quadrant":"SW",
     "Type Of Park":"Neighborhood",
@@ -2085,10 +2258,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Northgate Park",
+    "Latitude":39.52263,
+    "Longitude":-119.889577,
     "Address":"6450 Moonridge Terrace",
     "Quadrant":"NW",
     "Type Of Park":"Neighborhood",
@@ -2121,10 +2297,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":"Yes"
   },
   {
     "Park Name":"Northwest Pool & Park",
+    "Latitude":39.536577,
+    "Longitude":-119.851012,
     "Address":"2775 Apollo Way",
     "Quadrant":"NW",
     "Type Of Park":"Community",
@@ -2157,10 +2336,13 @@
     "Pool Type":"Indoor",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Northwest Trails",
+    "Latitude":39.529633,
+    "Longitude":-119.813803,
     "Address":"Various",
     "Quadrant":"NW",
     "Type Of Park":"Trail",
@@ -2193,10 +2375,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"O'Brien MS",
+    "Latitude":39.624097,
+    "Longitude":-119.881443,
     "Address":"10500 Stead Blvd",
     "Quadrant":"NV",
     "Type Of Park":"School",
@@ -2229,10 +2414,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Oxbow Nature Study Area",
+    "Latitude":39.51909,
+    "Longitude":-119.845956,
     "Address":"3100 Dickerson Road",
     "Quadrant":"NW",
     "Type Of Park":"Community",
@@ -2265,10 +2453,13 @@
     "Pool Type":"",
     "Water Body":"river",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Panther Valley Park",
+    "Latitude":39.589023,
+    "Longitude":-119.818154,
     "Address":"850 Link Lane",
     "Quadrant":"NE",
     "Type Of Park":"Neighborhood",
@@ -2301,10 +2492,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"Yes",
-    "Water Play Feature":"Yes"
+    "Water Play Feature":"Yes",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Pat Baker Park",
+    "Latitude":39.547307,
+    "Longitude":-119.795504,
     "Address":"1910 Bishop St",
     "Quadrant":"NE",
     "Type Of Park":"Neighborhood",
@@ -2337,10 +2531,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":"Yes"
   },
   {
     "Park Name":"Peavine Fields",
+    "Latitude":39.53205,
+    "Longitude":-119.848697,
     "Address":"825 Wyoming St",
     "Quadrant":"NW",
     "Type Of Park":"Neighborhood",
@@ -2373,10 +2570,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Pickett Park",
+    "Latitude":39.524243,
+    "Longitude":-119.798357,
     "Address":"250 Kirman Ave",
     "Quadrant":"SE",
     "Type Of Park":"Neighborhood",
@@ -2409,10 +2609,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"Yes",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Pine MS",
+    "Latitude":39.479754,
+    "Longitude":-119.780615,
     "Address":"4800 Neil Road",
     "Quadrant":"SE",
     "Type Of Park":"School",
@@ -2445,10 +2648,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Plumas Park",
+    "Latitude":39.512827,
+    "Longitude":-119.8144,
     "Address":"575 Munroe St",
     "Quadrant":"SW",
     "Type Of Park":"Neighborhood",
@@ -2481,10 +2687,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Powning Park",
+    "Latitude":39.52362,
+    "Longitude":-119.811596,
     "Address":"150 South Virginia St",
     "Quadrant":"SE",
     "Type Of Park":"Pocket",
@@ -2517,10 +2726,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Rainbow Ridge Park",
+    "Latitude":39.522763,
+    "Longitude":-119.874454,
     "Address":"1355 Rainbow Ridge Dr",
     "Quadrant":"NE",
     "Type Of Park":"Neighborhood",
@@ -2553,10 +2765,13 @@
     "Pool Type":"",
     "Water Body":"stream",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Raleigh Heights Park",
+    "Latitude":39.5907,
+    "Longitude":-119.845347,
     "Address":"825 Burgess Place",
     "Quadrant":"NV",
     "Type Of Park":"Neighborhood",
@@ -2589,10 +2804,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Reggie Road Exercise Area",
+    "Latitude":39.476194,
+    "Longitude":-119.748207,
     "Address":"Reggie Road",
     "Quadrant":"SE",
     "Type Of Park":"Neighborhood",
@@ -2625,10 +2843,13 @@
     "Pool Type":"",
     "Water Body":"stream",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Reno Sports Complex",
+    "Latitude":39.553823,
+    "Longitude":-119.826418,
     "Address":"2975 North Virginia St",
     "Quadrant":"NW",
     "Type Of Park":"Community",
@@ -2661,10 +2882,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Reno Tennis Center",
+    "Latitude":39.499096,
+    "Longitude":-119.81319,
     "Address":"2601 Plumas St",
     "Quadrant":"SW",
     "Type Of Park":"Neighborhood",
@@ -2697,10 +2921,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Riverside Drive",
+    "Latitude":39.522601,
+    "Longitude":-119.820911,
     "Address":"650 Riverside Dr",
     "Quadrant":"NW",
     "Type Of Park":"Neighborhood",
@@ -2733,10 +2960,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Robinhood Park",
+    "Latitude":39.494501,
+    "Longitude":-119.805962,
     "Address":"750 Robinhood Dr",
     "Quadrant":"SW",
     "Type Of Park":"Pocket",
@@ -2769,10 +2999,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Rotary Centennial Park",
+    "Latitude":39.542637,
+    "Longitude":-119.797322,
     "Address":"1265 Hillboro Ave",
     "Quadrant":"NE",
     "Type Of Park":"Pocket",
@@ -2805,10 +3038,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Sage Street Park",
+    "Latitude":39.537422,
+    "Longitude":-119.793599,
     "Address":"790 Sage Street",
     "Quadrant":"NE",
     "Type Of Park":"Neighborhood",
@@ -2841,10 +3077,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Schiappacasse Park",
+    "Latitude":39.510717,
+    "Longitude":-119.86095,
     "Address":"3945 Riverhaven Dr",
     "Quadrant":"SW",
     "Type Of Park":"Neighborhood",
@@ -2877,10 +3116,13 @@
     "Pool Type":"",
     "Water Body":"river",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Seminary Park",
+    "Latitude":39.538553,
+    "Longitude":-119.818981,
     "Address":"1101 Sierra St",
     "Quadrant":"NW",
     "Type Of Park":"Pocket",
@@ -2913,10 +3155,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Silver Lake Park",
+    "Latitude":39.633951,
+    "Longitude":-119.90154,
     "Address":"8755 Red Baron Blvd",
     "Quadrant":"NV",
     "Type Of Park":"Neighborhood",
@@ -2949,10 +3194,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"Yes"
+    "Water Play Feature":"Yes",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Sky Country Park",
+    "Latitude":39.546613,
+    "Longitude":-119.852192,
     "Address":"3290 Snake River Dr",
     "Quadrant":"NW",
     "Type Of Park":"Neighborhood",
@@ -2985,10 +3233,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Sky Tavern",
+    "Latitude":39.336911,
+    "Longitude":-119.872522,
     "Address":"21130 Mt Rose Highway",
     "Quadrant":"SW",
     "Type Of Park":"Community",
@@ -3021,10 +3272,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Somersett Park - East",
+    "Latitude":39.529633,
+    "Longitude":-119.813803,
     "Address":"1900 Park Hollow Court",
     "Quadrant":"NW",
     "Type Of Park":"Neighborhood",
@@ -3057,10 +3311,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Sterling Village Tot Lot",
+    "Latitude":39.544788,
+    "Longitude":-119.803257,
     "Address":"760 Winston Dr",
     "Quadrant":"NE",
     "Type Of Park":"Pocket",
@@ -3093,10 +3350,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Stewart Park",
+    "Latitude":39.522213,
+    "Longitude":-119.804837,
     "Address":"400 Stewart St",
     "Quadrant":"SE",
     "Type Of Park":"Neighborhood",
@@ -3129,10 +3389,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Summit Ridge Park",
+    "Latitude":39.518816,
+    "Longitude":-119.854767,
     "Address":"4650 Summit Ridge Dr",
     "Quadrant":"NW",
     "Type Of Park":"Neighborhood",
@@ -3165,10 +3428,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"Yes",
-    "Water Play Feature":"Yes"
+    "Water Play Feature":"Yes",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Swope MS",
+    "Latitude":39.510486,
+    "Longitude":-119.847613,
     "Address":"901 Keele Dr",
     "Quadrant":"SW",
     "Type Of Park":"School",
@@ -3201,10 +3467,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Teglia's Paradise Park",
+    "Latitude":39.544642,
+    "Longitude":-119.780837,
     "Address":"2700 Paradise Dr",
     "Quadrant":"NE",
     "Type Of Park":"Community",
@@ -3237,10 +3506,13 @@
     "Pool Type":"",
     "Water Body":"pond/lake",
     "Parcourse":"Yes",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":"Yes"
   },
   {
     "Park Name":"Terrace Sports Complex",
+    "Latitude":39.544493,
+    "Longitude":-119.891267,
     "Address":"2525 Robb Drive",
     "Quadrant":"NW",
     "Type Of Park":"Community",
@@ -3273,10 +3545,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Traner MS and Pool",
+    "Latitude":39.540656,
+    "Longitude":-119.792569,
     "Address":"1700 Carville Dr",
     "Quadrant":"NE",
     "Type Of Park":"Community",
@@ -3309,10 +3584,13 @@
     "Pool Type":"Outdoor",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"University Ridge Park",
+    "Latitude":39.55961,
+    "Longitude":-119.812199,
     "Address":"990 South University Park Loop",
     "Quadrant":"NE",
     "Type Of Park":"Neighborhood",
@@ -3345,10 +3623,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"Yes",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Valleywood Park",
+    "Latitude":39.533292,
+    "Longitude":-119.891802,
     "Address":"6555 Valley Wood Dr",
     "Quadrant":"NW",
     "Type Of Park":"Community",
@@ -3381,10 +3662,13 @@
     "Pool Type":"",
     "Water Body":"stream",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Vaughn MS",
+    "Latitude":39.513973,
+    "Longitude":-119.792635,
     "Address":"1200 Bresson Ave",
     "Quadrant":"SE",
     "Type Of Park":"School",
@@ -3417,10 +3701,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Virginia Lake Park",
+    "Latitude":39.503852,
+    "Longitude":-119.807185,
     "Address":"1980 Lakeside Dr",
     "Quadrant":"SW",
     "Type Of Park":"Community",
@@ -3453,10 +3740,13 @@
     "Pool Type":"",
     "Water Body":"pond/lake",
     "Parcourse":"Yes",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Warner ES",
+    "Latitude":39.527482,
+    "Longitude":-119.856893,
     "Address":"3075 Heights Dr",
     "Quadrant":"NW",
     "Type Of Park":"School",
@@ -3489,10 +3779,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Water's Edge",
+    "Latitude":39.519167,
+    "Longitude":-119.825447,
     "Address":"200 Booth St",
     "Quadrant":"SW",
     "Type Of Park":"Pathway",
@@ -3525,10 +3818,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"West Street Plaza",
+    "Latitude":39.525224,
+    "Longitude":-119.81525,
     "Address":"220 West 1st St",
     "Quadrant":"NW",
     "Type Of Park":"Pocket",
@@ -3561,10 +3857,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Westergard ES",
+    "Latitude":39.526915,
+    "Longitude":-119.893071,
     "Address":"1785 Ambassador Dr",
     "Quadrant":"NW",
     "Type Of Park":"School",
@@ -3597,10 +3896,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Wheatland Park",
+    "Latitude":39.469943,
+    "Longitude":-119.80621,
     "Address":"990 Wheatland Rd",
     "Quadrant":"SW",
     "Type Of Park":"Neighborhood",
@@ -3633,10 +3935,13 @@
     "Pool Type":"",
     "Water Body":"stream",
     "Parcourse":"No",
-    "Water Play Feature":"Yes"
+    "Water Play Feature":"Yes",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Whitaker Park",
+    "Latitude":39.533323,
+    "Longitude":-119.823568,
     "Address":"550 University Terrace",
     "Quadrant":"NW",
     "Type Of Park":"Neighborhood",
@@ -3669,10 +3974,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":"Yes"
   },
   {
     "Park Name":"Wilkinson Park",
+    "Latitude":39.517389,
+    "Longitude":-119.792699,
     "Address":"1201 East Taylor St",
     "Quadrant":"SE",
     "Type Of Park":"Neighborhood",
@@ -3705,10 +4013,13 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Wingfield Park",
+    "Latitude":39.523768,
+    "Longitude":-119.816251,
     "Address":"2 South Arlington Ave",
     "Quadrant":"SW",
     "Type Of Park":"Neighborhood",
@@ -3741,10 +4052,13 @@
     "Pool Type":"",
     "Water Body":"river",
     "Parcourse":"No",
-    "Water Play Feature":"No"
+    "Water Play Feature":"No",
+    "Rentable Shelters":""
   },
   {
     "Park Name":"Yori Park",
+    "Latitude":39.498207,
+    "Longitude":-119.793546,
     "Address":"2800 Yori Ave",
     "Quadrant":"SE",
     "Type Of Park":"Neighborhood",
@@ -3777,6 +4091,7 @@
     "Pool Type":"",
     "Water Body":"",
     "Parcourse":"No",
-    "Water Play Feature":"Yes"
+    "Water Play Feature":"Yes",
+    "Rentable Shelters":""
   }
 ]
