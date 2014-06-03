@@ -10,7 +10,6 @@
 #define PARKS_JSON_URL @"https://raw.githubusercontent.com/CityofReno/Data/master/parks_recreation/park_inventory_2014.json"
 @interface ViewController () {
     NSMutableArray *parkArray;
-    MBProgressHUD *HUD;
 }
 
 @end
@@ -20,21 +19,21 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    UIRefreshControl *refresh = [[UIRefreshControl alloc] init];
+    refresh.tintColor = [UIColor colorWithRed:47/255.0f green:48/255.0f blue:6/255.0f alpha:1];
+    [refresh addTarget:self action:@selector(reloadData:) forControlEvents:UIControlEventValueChanged];
+    [self setRefreshControl:refresh];
+    
     parkArray = [[NSMutableArray alloc] init];
     [self reloadData:nil];
 }
+-(void)viewWillAppear:(BOOL)animated {
+    self.navigationItem.title = @"Parks in Reno";
+    [super viewWillAppear:animated];
+}
 -(IBAction)reloadData:(id)sender{
     [parkArray removeAllObjects];
-    HUD = [[MBProgressHUD alloc] initWithView:self.navigationController.view];
-    [self.navigationController.view addSubview:HUD];
-    
-    // Regiser for HUD callbacks so we can remove it from the window at the right time
-    HUD.delegate = self;
-    
-    // Show the HUD while the provided method executes in a new thread
-    [HUD showWhileExecuting:@selector(loadData) onTarget:self withObject:nil animated:YES];
-}
--(void)loadData {
     NSData *data = [NSData dataWithContentsOfURL:[NSURL URLWithString:PARKS_JSON_URL]];
     if (!(data == nil)) {
         NSError *error;
@@ -49,17 +48,14 @@
     }else {
         [[[UIAlertView alloc] initWithTitle:@"Couldn't get data!" message:@"Connect to the internet and re-try" delegate:nil cancelButtonTitle:@"Ok" otherButtonTitles: nil] show];
     }
+    [(UIRefreshControl *)sender endRefreshing];
 }
-
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath
-{
-    return 85;
-}
+
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
 {
     // Return the number of sections.
@@ -75,25 +71,27 @@
 
  - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
  {
-     UITableViewCell *cell;
-     UILabel *parkName;
-     UILabel *parkAddress;
-     if (cell == nil) {
-         cell = [[UITableViewCell alloc] init];
-         
-         parkName = [[UILabel alloc] initWithFrame:CGRectMake(15, 15, 300, 25)];
-         parkAddress = [[UILabel alloc] initWithFrame:CGRectMake(15, 35, 300, 25)];
-         
-         [cell addSubview:parkAddress];
-         [cell addSubview:parkName];
-
-
-     }
+     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"ParksCell"];
+     
      // Park name
-     parkName.text = [parkArray[indexPath.row] objectForKey:@"Park Name"];
+     cell.textLabel.text = [parkArray[indexPath.row] objectForKey:@"Park Name"];
      // Park address
-     parkAddress.text = [NSString stringWithFormat:@"%@ - %@ Reno",[parkArray[indexPath.row] objectForKey:@"Address"],[parkArray[indexPath.row] objectForKey:@"Quadrant"]];
+     cell.detailTextLabel.text = [NSString stringWithFormat:@"%@ - %@ Reno",[parkArray[indexPath.row] objectForKey:@"Address"],[parkArray[indexPath.row] objectForKey:@"Quadrant"]];
 
      return cell;
- }
+}
+- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender
+{
+    // Get the new view controller using [segue destinationViewController].
+    // Pass the selected object to the new view controller.
+    self.navigationItem.title = @"Back";
+    ParkDetailsViewController *destinationView = [segue destinationViewController];
+    UITableViewCell *selectedCell = (UITableViewCell *)sender;
+    NSIndexPath *indexPath = [self.tableView indexPathForCell:selectedCell];
+    destinationView.parkName = [parkArray[indexPath.row] objectForKey:@"Park Name"];
+    destinationView.latitude = [[parkArray[indexPath.row] objectForKey:@"Latitude"] doubleValue];
+    destinationView.longitude = [[parkArray[indexPath.row] objectForKey:@"Longitude"] doubleValue];
+
+
+}
 @end

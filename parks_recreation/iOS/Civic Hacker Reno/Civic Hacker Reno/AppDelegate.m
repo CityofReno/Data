@@ -17,6 +17,8 @@
     [[UINavigationBar appearance] setTitleTextAttributes:@{NSForegroundColorAttributeName : [UIColor whiteColor]}];
     [[UINavigationBar appearance] setBarTintColor:[UIColor colorWithRed:47/255.0f green:48/255.0f blue:6/255.0f alpha:1]];
     [[UINavigationBar appearance] setBarStyle:UIBarStyleBlack];
+    
+
     // Override point for customization after application launch.
     return YES;
 }

@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B99529EE193BCFF000BCAB97"
-               BuildableName = "Civic Hacker Reno.app"
+               BuildableName = "Parks.app"
                BlueprintName = "Parks"
                ReferencedContainer = "container:Parks.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B9952A0F193BCFF000BCAB97"
-               BuildableName = "Civic Hacker RenoTests.xctest"
+               BuildableName = "ParksTests.xctest"
                BlueprintName = "ParksTests"
                ReferencedContainer = "container:Parks.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B99529EE193BCFF000BCAB97"
-            BuildableName = "Civic Hacker Reno.app"
+            BuildableName = "Parks.app"
             BlueprintName = "Parks"
             ReferencedContainer = "container:Parks.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B99529EE193BCFF000BCAB97"
-            BuildableName = "Civic Hacker Reno.app"
+            BuildableName = "Parks.app"
             BlueprintName = "Parks"
             ReferencedContainer = "container:Parks.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B99529EE193BCFF000BCAB97"
-            BuildableName = "Civic Hacker Reno.app"
+            BuildableName = "Parks.app"
             BlueprintName = "Parks"
             ReferencedContainer = "container:Parks.xcodeproj">
          </BuildableReference>
