@@ -7,7 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "MBProgressHUD.h"
-@interface ViewController : UITableViewController <MBProgressHUDDelegate>
+#import "ParkDetailsViewController.h"
+
+@interface ViewController : UITableViewController <UITableViewDataSource,UITableViewDelegate>
 
 @end

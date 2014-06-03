@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B9320F26193D8F7000D00FDC /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9320F25193D8F7000D00FDC /* MapKit.framework */; };
 		B99529F3193BCFF000BCAB97 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B99529F2193BCFF000BCAB97 /* Foundation.framework */; };
 		B99529F5193BCFF000BCAB97 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B99529F4193BCFF000BCAB97 /* CoreGraphics.framework */; };
 		B99529F7193BCFF000BCAB97 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B99529F6193BCFF000BCAB97 /* UIKit.framework */; };
@@ -22,10 +23,8 @@
 		B9952A1C193BCFF000BCAB97 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B9952A1A193BCFF000BCAB97 /* InfoPlist.strings */; };
 		B9952A1E193BCFF000BCAB97 /* Civic_Hacker_RenoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B9952A1D193BCFF000BCAB97 /* Civic_Hacker_RenoTests.m */; };
 		B9952A2A193BD97100BCAB97 /* 1401677880_parks-32.png in Resources */ = {isa = PBXBuildFile; fileRef = B9952A29193BD97100BCAB97 /* 1401677880_parks-32.png */; };
-		B9952A2D193BDCBB00BCAB97 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = B9952A2C193BDCBB00BCAB97 /* MBProgressHUD.m */; };
-		B9952A33193BDE2900BCAB97 /* 1401679081_127-Retweet.png in Resources */ = {isa = PBXBuildFile; fileRef = B9952A32193BDE2900BCAB97 /* 1401679081_127-Retweet.png */; };
-		B9952A35193BDE5F00BCAB97 /* 1401679081_127-Retweet@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B9952A34193BDE5F00BCAB97 /* 1401679081_127-Retweet@2x.png */; };
 		B9952A3A193BE07F00BCAB97 /* 1401677880_parks-32@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B9952A39193BE07F00BCAB97 /* 1401677880_parks-32@2x.png */; };
+		B9E5C7B2193D8167003D2119 /* ParkDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B9E5C7B1193D8167003D2119 /* ParkDetailsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B9320F25193D8F7000D00FDC /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		B99529EF193BCFF000BCAB97 /* Parks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B99529F2193BCFF000BCAB97 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B99529F4193BCFF000BCAB97 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -59,11 +59,9 @@
 		B9952A1B193BCFF000BCAB97 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B9952A1D193BCFF000BCAB97 /* Civic_Hacker_RenoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Civic_Hacker_RenoTests.m; sourceTree = "<group>"; };
 		B9952A29193BD97100BCAB97 /* 1401677880_parks-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1401677880_parks-32.png"; sourceTree = "<group>"; };
-		B9952A2B193BDCBB00BCAB97 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
-		B9952A2C193BDCBB00BCAB97 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
-		B9952A32193BDE2900BCAB97 /* 1401679081_127-Retweet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1401679081_127-Retweet.png"; sourceTree = "<group>"; };
-		B9952A34193BDE5F00BCAB97 /* 1401679081_127-Retweet@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1401679081_127-Retweet@2x.png"; sourceTree = "<group>"; };
 		B9952A39193BE07F00BCAB97 /* 1401677880_parks-32@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1401677880_parks-32@2x.png"; sourceTree = "<group>"; };
+		B9E5C7B0193D8167003D2119 /* ParkDetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ParkDetailsViewController.h; sourceTree = "<group>"; };
+		B9E5C7B1193D8167003D2119 /* ParkDetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ParkDetailsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +69,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B9320F26193D8F7000D00FDC /* MapKit.framework in Frameworks */,
 				B99529F5193BCFF000BCAB97 /* CoreGraphics.framework in Frameworks */,
 				B99529F7193BCFF000BCAB97 /* UIKit.framework in Frameworks */,
 				B99529F3193BCFF000BCAB97 /* Foundation.framework in Frameworks */,
@@ -112,6 +111,7 @@
 		B99529F1193BCFF000BCAB97 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				B9320F25193D8F7000D00FDC /* MapKit.framework */,
 				B99529F2193BCFF000BCAB97 /* Foundation.framework */,
 				B99529F4193BCFF000BCAB97 /* CoreGraphics.framework */,
 				B99529F6193BCFF000BCAB97 /* UIKit.framework */,
@@ -123,17 +123,15 @@
 		B99529F8193BCFF000BCAB97 /* Civic Hacker Reno */ = {
 			isa = PBXGroup;
 			children = (
-				B9952A32193BDE2900BCAB97 /* 1401679081_127-Retweet.png */,
 				B9952A29193BD97100BCAB97 /* 1401677880_parks-32.png */,
 				B9952A39193BE07F00BCAB97 /* 1401677880_parks-32@2x.png */,
-				B9952A34193BDE5F00BCAB97 /* 1401679081_127-Retweet@2x.png */,
 				B9952A01193BCFF000BCAB97 /* AppDelegate.h */,
 				B9952A02193BCFF000BCAB97 /* AppDelegate.m */,
 				B9952A04193BCFF000BCAB97 /* Main.storyboard */,
 				B9952A07193BCFF000BCAB97 /* ViewController.h */,
 				B9952A08193BCFF000BCAB97 /* ViewController.m */,
-				B9952A2B193BDCBB00BCAB97 /* MBProgressHUD.h */,
-				B9952A2C193BDCBB00BCAB97 /* MBProgressHUD.m */,
+				B9E5C7B0193D8167003D2119 /* ParkDetailsViewController.h */,
+				B9E5C7B1193D8167003D2119 /* ParkDetailsViewController.m */,
 				B9952A0A193BCFF000BCAB97 /* Images.xcassets */,
 				B99529F9193BCFF000BCAB97 /* Supporting Files */,
 			);
@@ -245,8 +243,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B9952A35193BDE5F00BCAB97 /* 1401679081_127-Retweet@2x.png in Resources */,
-				B9952A33193BDE2900BCAB97 /* 1401679081_127-Retweet.png in Resources */,
 				B9952A0B193BCFF000BCAB97 /* Images.xcassets in Resources */,
 				B99529FD193BCFF000BCAB97 /* InfoPlist.strings in Resources */,
 				B9952A06193BCFF000BCAB97 /* Main.storyboard in Resources */,
@@ -273,7 +269,7 @@
 				B9952A09193BCFF000BCAB97 /* ViewController.m in Sources */,
 				B9952A03193BCFF000BCAB97 /* AppDelegate.m in Sources */,
 				B99529FF193BCFF000BCAB97 /* main.m in Sources */,
-				B9952A2D193BDCBB00BCAB97 /* MBProgressHUD.m in Sources */,
+				B9E5C7B2193D8167003D2119 /* ParkDetailsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -401,6 +397,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Civic Hacker Reno/Parks-Prefix.pch";
 				INFOPLIST_FILE = "Civic Hacker Reno/Parks-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				PRODUCT_NAME = Parks;
 				WRAPPER_EXTENSION = app;
 			};
@@ -414,6 +411,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Civic Hacker Reno/Parks-Prefix.pch";
 				INFOPLIST_FILE = "Civic Hacker Reno/Parks-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				PRODUCT_NAME = Parks;
 				WRAPPER_EXTENSION = app;
 			};
