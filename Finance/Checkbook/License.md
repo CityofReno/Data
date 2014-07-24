@@ -1,0 +1,3 @@
+## Information presented in this document is unaudited and considered public information pursuant to NRS chapter 239 unless otherwise noted, and may be freely distributed or copied. While the City makes every effort to provide accurate and complete information, City financial information is very dynamic in nature, and may fluctuate substantially based on the time of year, and the time between data update cycles. The City provides no warranty, expressed or implied, as to the accuracy, reliability or completeness of furnished data. For official audited financial records or further information, please contact the City of Reno Finance Department at 775-334-2080. 
+
+
